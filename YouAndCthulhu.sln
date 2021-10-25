@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouAndCthulhu", "YouAndCthulhu\YouAndCthulhu.csproj", "{68623EBF-F365-4375-8F97-AD623142E0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestYouAndCthulhu", "TestYouAndCthulhu\TestYouAndCthulhu.csproj", "{ED90B0FD-03D9-40FF-A977-B0FFE1716F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68623EBF-F365-4375-8F97-AD623142E0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68623EBF-F365-4375-8F97-AD623142E0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68623EBF-F365-4375-8F97-AD623142E0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68623EBF-F365-4375-8F97-AD623142E0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED90B0FD-03D9-40FF-A977-B0FFE1716F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED90B0FD-03D9-40FF-A977-B0FFE1716F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED90B0FD-03D9-40FF-A977-B0FFE1716F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED90B0FD-03D9-40FF-A977-B0FFE1716F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

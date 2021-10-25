@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kmakes/.dotnet/store/|arch|/|tfm|",
+      "/home/kmakes/.nuget/packages"
+    ]
+  }
+}
